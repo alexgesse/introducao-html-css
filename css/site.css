@@ -37,6 +37,7 @@ p {
     margin: 20px 0;
 }
 
+.minha-foto,
 .navegacao-site {
     text-align: center;
     background-color: #3C1D3D;
@@ -114,7 +115,6 @@ main {
     padding-bottom: 80px;
 }
 
-.minha-foto,
 .navegacao-site {
     border-left: 10px solid black;
     border-bottom: 10px solid black;
@@ -132,4 +132,6 @@ main {
     position: absolute;
     top: 0;
     right: 0;
+    width: 200px;
+    height: 200px;
 }
